@@ -22,7 +22,7 @@
 
 ## Introduction
 
-This project provides a reference implementation for running a Cloud Native Mobile and Web Application using a Microservices architecture on a Kubernetes cluster.  The logical architecture for this reference implementation is shown in the picture below.  
+This project provides reference implementation for running a Cloud Native Mobile and Web Application using a Microservices architecture on a Kubernetes cluster.  The logical architecture for this reference implementation is shown in the picture below.  
 
    ![Application Architecture](static/imgs/app_architecture.png?raw=true)
 
